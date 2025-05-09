@@ -1,2 +1,2 @@
 # images
-save online images
+storing online images
